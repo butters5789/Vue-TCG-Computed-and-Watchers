@@ -1,1 +1,5 @@
-# Vue-TCG-Computed-and-Watchers
+# Vue - The Complete Guide
+
+## Vue Computed and Watchers
+
+### Assignment 3
